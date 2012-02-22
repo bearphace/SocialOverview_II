@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library name="MyFonts" output="src/com/bearphace/social_overview/view" format="1" static="false">
+	<font id="OratorStd" family="Orator Std" style="0" cs="5" type="1" path="../../../../../fonts/OratorStd.otf" ascff="false" autoId="false"/>
+</library>

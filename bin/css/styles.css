@@ -1,0 +1,20 @@
+.content { 
+	color:#3c4036;
+}
+
+.label { 
+	font-size:14px;
+	font:verdana;
+	font-weight:bold;
+	color:#999999;
+}
+
+a:link {color: #807527}
+a:visited {text-decoration: none}
+a:active {text-decoration: none}
+a:hover {color: #ccd4c0}
+
+p { 
+	font-size:11px;
+	font:verdana;
+}
